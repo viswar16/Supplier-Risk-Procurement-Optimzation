@@ -1,0 +1,5 @@
+Supplier_ID,Average_Rank,Total_Spend_USD,Delay_Rate_Pct,Severe_Delay_Rate_Pct,Leading_Disruption,Leading_Disruption_Orders,Leading_Disruption_Share_Pct,Recommended_Review
+S4,1.0,1224751.12,57.14285714285714,21.428571428571427,Shortage,10,41.66666666666667,Investigate severe-delay causes
+S24,2.6666666666666665,1246160.45,52.083333333333336,14.583333333333334,Shortage,8,32.0,Review purchasing dependency and delivery performance
+S21,3.3333333333333335,821360.29,69.23076923076923,11.538461538461538,Strike,8,44.44444444444444,Investigate recurring delivery delays
+S23,4.0,975418.98,46.15384615384615,20.51282051282051,Strike,8,44.44444444444444,Investigate severe-delay causes

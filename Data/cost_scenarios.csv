@@ -1,0 +1,4 @@
+Scenario,Reduction_Rate_Pct,Selected_Supplier_Spend_USD,Potential_Savings_USD,Portfolio_Savings_Equivalent_Pct
+Conservative (2%),2.0,4267690.84,85353.8168,0.3374992809975472
+Moderate (3%),3.0,4267690.84,128030.72519999999,0.5062489214963207
+Optimistic (5%),5.0,4267690.84,213384.54200000002,0.8437482024938681
